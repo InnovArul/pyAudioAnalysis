@@ -15,7 +15,7 @@ import csv
 import os.path
 import sklearn
 import sklearn.cluster
-import hmmlearn.hmm
+#import hmmlearn.hmm
 import cPickle
 import glob
 
