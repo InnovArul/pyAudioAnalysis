@@ -10,7 +10,7 @@ import audioBasicIO
 from scipy.spatial import distance
 #import matplotlib.pyplot as plt
 import matplotlib.cm as cm
-import sklearn.discriminant_analysis
+#import sklearn.discriminant_analysis
 import csv
 import os.path
 import sklearn

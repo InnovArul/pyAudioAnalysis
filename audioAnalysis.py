@@ -15,7 +15,7 @@ import ntpath
 import audioFeatureExtraction as aF
 import audioTrainTest as aT
 import audioSegmentation as aS
-import audioVisualization as aV
+#import audioVisualization as aV
 import audioBasicIO
 import utilities as uT
 import scipy.io.wavfile as wavfile
