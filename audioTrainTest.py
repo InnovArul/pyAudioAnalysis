@@ -12,7 +12,7 @@ import ntpath
 import audioFeatureExtraction as aF
 import audioBasicIO
 from matplotlib.mlab import find
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 import scipy.io as sIO
 from scipy import linalg as la
 from scipy.spatial import distance

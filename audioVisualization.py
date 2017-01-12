@@ -1,6 +1,6 @@
 import os, sys, shutil, struct, simplejson
 import numpy as np
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 from scipy.spatial import distance
 from pylab import *
 import ntpath

@@ -11,7 +11,7 @@ import cPickle
 import threading
 import shutil
 import ntpath
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 import audioFeatureExtraction as aF
 import audioTrainTest as aT
 import audioSegmentation as aS

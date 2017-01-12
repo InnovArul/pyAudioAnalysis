@@ -6,9 +6,9 @@ import os
 import audioFeatureExtraction as aF
 import audioTrainTest as aT
 import audioBasicIO
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 from scipy.spatial import distance
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 import matplotlib.cm as cm
 import sklearn.discriminant_analysis
 import csv

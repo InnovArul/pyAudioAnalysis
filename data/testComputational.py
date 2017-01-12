@@ -3,7 +3,7 @@ from pyAudioAnalysis import audioBasicIO
 from pyAudioAnalysis import audioFeatureExtraction
 from pyAudioAnalysis import audioTrainTest as aT
 from pyAudioAnalysis import audioSegmentation as aS
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 import time
 
 nExp = 4
